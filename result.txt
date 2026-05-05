@@ -1,0 +1,130 @@
+【核心结论】
+已按“论文/技术报告”模式检索“帮我找计算机视觉方向的论文”。下面只列出资料、摘要和评分，不强行生成综合分析。
+
+【找到的资料】
+1. 图象工程: 图象理解与计算机视觉. 下册
+链接：https://books.google.com/books?hl=en&id=kimwYv9dTWAC&oi=fnd&pg=PA3&dq=%E5%B8%AE%E6%88%91%E6%89%BE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E7%9A%84%E8%AE%BA%E6%96%87&ots=knwueu5NiL&sig=qN474KK2kzcNgNDB8oV2kSDCkz0
+来源：books.google.com
+类型：general
+评分：权重 1；相关性 57；总分 374.0
+摘要：… 计算机视觉研究方面的大讨论,有些论文刊 登在国际刊物CVGIP 和CVIU上(见例1.2.1).请查阅有关 论文… 点,中 央凹的视觉方向就是主要的视觉方向,我们依靠中央眼的主要视觉方向来确定物体在…
+
+2. 基于 CiteSpace 的计算机视觉领域研究热点与前沿分析
+链接：https://www.hanspub.org/journal/paperinformation?paperID=112041
+来源：hanspub.org
+类型：general
+评分：权重 1；相关性 49；总分 335.0
+摘要：… 此外,通过突现词分析发现,未来计算机视觉研究的主要发展方向聚焦于“深度学习”和“目标检测”两 大… 本研究旨在探究1992年至2024年期间,中国计算机视觉研究领域内各研究机构论文产出情况.…
+
+3. 深度卷积神经网络的发展及其在计算机视觉领域的应用
+链接：http://cjc.ict.ac.cn/online/bfpub/zs-20171229143943.pdf
+来源：cjc.ict.ac.cn
+类型：general
+评分：权重 1；相关性 47；总分 323.0
+摘要：… ,人脸识别,行人再识别等多个计算机视觉任务中都取得了巨大成功.… 针对计算机视觉领域,本文重点 介绍了卷积 神经网络在图像分类,… 突破口,已成为越来越受到学术 界关注的研究方向.通过对人脑…
+
+4. 基于计算机视觉的汽车仪表指针检测方法
+链接：http://joces.nudt.edu.cn/CN/Y2013/V35/I3/134
+来源：joces.nudt.edu.cn
+类型：general
+评分：权重 1；相关性 47；总分 313.0
+摘要：… 由于每幅图像中只有一根指针其对应着图中 最长的一条直线则可在极坐标空间中找出通过的 … 直线的方向性而待检速度表指针旋转角度接 近于&a %1&a 使得处在同一直线位置但方向相 反的…
+
+5. 基于计算机视觉的 Transformer 研究进展.
+链接：https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=156117059&h=N1MOdJVtPmAu1bd4zaVyOeFpBhYTPKeI3k0SnKT2vAhIQvqv%2FVJJfBQNzQDEYPtQTa5Ps90vHHi8JmuX2wLifw%3D%3D&crl=c
+来源：search.ebscohost.com
+类型：general
+评分：权重 1；相关性 47；总分 313.0
+摘要：… 为计算机视觉任务的重要研究方向.针对目前国内基于Transformer综述性文章的空白,对其在计算机 视觉… 回顾了Transformer的基本原理,重点介绍了其在图像分类,目标检测,图像分割等七个视觉…
+
+6. 从电路计算到人工智能——从计算机视角看 “诺贝尔物理学奖颁给人工智能学者
+链接：https://www.nature.shu.edu.cn/CN/PDF/10.3969/j.issn.0253-9608.2024.06.006
+来源：nature.shu.edu.cn
+类型：general
+评分：权重 1；相关性 34；总分 243.0
+摘要：… 研究 将尝试找出如何让机器使用语言,形成抽象和概 念,解决… 中 意外发现电流能够偏转指南针 的方向,从而揭示 出电流周围会… 几位研究 组同事在NeurIPS会议发表论文,提出一种新型 深度卷积…
+
+【使用建议】
+1. 优先打开 arXiv、官方博客、GitHub PDF 或模型卡。
+2. 如果要快速判断可信度，先看摘要、发布时间和作者机构。
+3. 优先看官方文档、论文、GitHub 和模型平台。
+4. 如果结果仍然偏杂，继续补充版本号、产品名或错误信息。
+
+【来源评分】
+
+1. 图象工程: 图象理解与计算机视觉. 下册
+域名：books.google.com；类型：general；权重：1；相关性：57；总分：374.0；证据：强/29
+链接：https://books.google.com/books?hl=en&id=kimwYv9dTWAC&oi=fnd&pg=PA3&dq=%E5%B8%AE%E6%88%91%E6%89%BE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E7%9A%84%E8%AE%BA%E6%96%87&ots=knwueu5NiL&sig=qN474KK2kzcNgNDB8oV2kSDCkz0
+
+2. 基于 CiteSpace 的计算机视觉领域研究热点与前沿分析
+域名：hanspub.org；类型：general；权重：1；相关性：49；总分：335.0；证据：中/28
+链接：https://www.hanspub.org/journal/paperinformation?paperID=112041
+
+3. 深度卷积神经网络的发展及其在计算机视觉领域的应用
+域名：cjc.ict.ac.cn；类型：general；权重：1；相关性：47；总分：323.0；证据：中/28
+链接：http://cjc.ict.ac.cn/online/bfpub/zs-20171229143943.pdf
+
+4. 基于计算机视觉的汽车仪表指针检测方法
+域名：joces.nudt.edu.cn；类型：general；权重：1；相关性：47；总分：313.0；证据：中/28
+链接：http://joces.nudt.edu.cn/CN/Y2013/V35/I3/134
+
+5. 基于计算机视觉的 Transformer 研究进展.
+域名：search.ebscohost.com；类型：general；权重：1；相关性：47；总分：313.0；证据：中/28
+链接：https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=156117059&h=N1MOdJVtPmAu1bd4zaVyOeFpBhYTPKeI3k0SnKT2vAhIQvqv%2FVJJfBQNzQDEYPtQTa5Ps90vHHi8JmuX2wLifw%3D%3D&crl=c
+
+6. 从电路计算到人工智能——从计算机视角看 “诺贝尔物理学奖颁给人工智能学者
+域名：nature.shu.edu.cn；类型：general；权重：1；相关性：34；总分：243.0；证据：中/27
+链接：https://www.nature.shu.edu.cn/CN/PDF/10.3969/j.issn.0253-9608.2024.06.006
+
+【实际搜索】
+1. 找计算机视觉方向的
+2. computer vision papers
+3. 找计算机视觉方向的 论文
+4. 找计算机视觉方向的 technical report
+5. 找计算机视觉方向的 paper arxiv
+6. 帮我找计算机视觉方向的论文
+
+【证据链】
+1. 图象工程: 图象理解与计算机视觉. 下册
+角色：背景资料；强度：强；分数：29；来源：books.google.com（general）
+链接：https://books.google.com/books?hl=en&id=kimwYv9dTWAC&oi=fnd&pg=PA3&dq=%E5%B8%AE%E6%88%91%E6%89%BE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E7%9A%84%E8%AE%BA%E6%96%87&ots=knwueu5NiL&sig=qN474KK2kzcNgNDB8oV2kSDCkz0
+证据摘录：… 计算机视觉研究方面的大讨论,有些论文刊 登在国际刊物CVGIP 和CVIU上(见例1.2.1).请查阅有关 论文… 点,中 央凹的视觉方向就是主要的视觉方向,我们依靠中央眼的主要视觉方向来确定物体在…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度4/5；正文可读性3/5
+
+2. 基于 CiteSpace 的计算机视觉领域研究热点与前沿分析
+角色：背景资料；强度：中；分数：28；来源：hanspub.org（general）
+链接：https://www.hanspub.org/journal/paperinformation?paperID=112041
+证据摘录：… 此外,通过突现词分析发现,未来计算机视觉研究的主要发展方向聚焦于“深度学习”和“目标检测”两 大… 本研究旨在探究1992年至2024年期间,中国计算机视觉研究领域内各研究机构论文产出情况.…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度3/5；正文可读性3/5
+
+3. 深度卷积神经网络的发展及其在计算机视觉领域的应用
+角色：背景资料；强度：中；分数：28；来源：cjc.ict.ac.cn（general）
+链接：http://cjc.ict.ac.cn/online/bfpub/zs-20171229143943.pdf
+证据摘录：… ,人脸识别,行人再识别等多个计算机视觉任务中都取得了巨大成功.… 针对计算机视觉领域,本文重点 介绍了卷积 神经网络在图像分类,… 突破口,已成为越来越受到学术 界关注的研究方向.通过对人脑…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度3/5；正文可读性3/5
+
+4. 基于计算机视觉的汽车仪表指针检测方法
+角色：背景资料；强度：中；分数：28；来源：joces.nudt.edu.cn（general）
+链接：http://joces.nudt.edu.cn/CN/Y2013/V35/I3/134
+证据摘录：… 由于每幅图像中只有一根指针其对应着图中 最长的一条直线则可在极坐标空间中找出通过的 … 直线的方向性而待检速度表指针旋转角度接 近于&a %1&a 使得处在同一直线位置但方向相 反的…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度3/5；正文可读性3/5
+
+5. 基于计算机视觉的 Transformer 研究进展.
+角色：背景资料；强度：中；分数：28；来源：search.ebscohost.com（general）
+链接：https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=156117059&h=N1MOdJVtPmAu1bd4zaVyOeFpBhYTPKeI3k0SnKT2vAhIQvqv%2FVJJfBQNzQDEYPtQTa5Ps90vHHi8JmuX2wLifw%3D%3D&crl=c
+证据摘录：… 为计算机视觉任务的重要研究方向.针对目前国内基于Transformer综述性文章的空白,对其在计算机 视觉… 回顾了Transformer的基本原理,重点介绍了其在图像分类,目标检测,图像分割等七个视觉…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度3/5；正文可读性3/5
+
+6. 从电路计算到人工智能——从计算机视角看 “诺贝尔物理学奖颁给人工智能学者
+角色：背景资料；强度：中；分数：27；来源：nature.shu.edu.cn（general）
+链接：https://www.nature.shu.edu.cn/CN/PDF/10.3969/j.issn.0253-9608.2024.06.006
+证据摘录：… 研究 将尝试找出如何让机器使用语言,形成抽象和概 念,解决… 中 意外发现电流能够偏转指南针 的方向,从而揭示 出电流周围会… 几位研究 组同事在NeurIPS会议发表论文,提出一种新型 深度卷积…
+评分依据：来源权威性2/5；相关性5/5；问题匹配度2/5；正文可读性3/5
+
+【反证/限制】
+1. 缺少官方文档、论文、官方仓库或高权威技术来源。
+2. 没有成功抓取正文，只能依赖搜索摘要，结论必须保守。
+
+【证据强度】
+综合：低
+正文抓取成功：0 个来源；独立域名：6；主要来源：0；限制/反证：0。

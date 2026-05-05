@@ -1,0 +1,19 @@
+【调试信息：排序后的来源】
+1. 图象工程: 图象理解与计算机视觉. 下册
+   域名：books.google.com | 权重：1 | 相关性：57 | 总分：374.0 | 证据：强/29
+   https://books.google.com/books?hl=en&id=kimwYv9dTWAC&oi=fnd&pg=PA3&dq=%E5%B8%AE%E6%88%91%E6%89%BE%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E7%9A%84%E8%AE%BA%E6%96%87&ots=knwueu5NiL&sig=qN474KK2kzcNgNDB8oV2kSDCkz0
+2. 基于 CiteSpace 的计算机视觉领域研究热点与前沿分析
+   域名：hanspub.org | 权重：1 | 相关性：49 | 总分：335.0 | 证据：中/28
+   https://www.hanspub.org/journal/paperinformation?paperID=112041
+3. 深度卷积神经网络的发展及其在计算机视觉领域的应用
+   域名：cjc.ict.ac.cn | 权重：1 | 相关性：47 | 总分：323.0 | 证据：中/28
+   http://cjc.ict.ac.cn/online/bfpub/zs-20171229143943.pdf
+4. 基于计算机视觉的汽车仪表指针检测方法
+   域名：joces.nudt.edu.cn | 权重：1 | 相关性：47 | 总分：313.0 | 证据：中/28
+   http://joces.nudt.edu.cn/CN/Y2013/V35/I3/134
+5. 基于计算机视觉的 Transformer 研究进展.
+   域名：search.ebscohost.com | 权重：1 | 相关性：47 | 总分：313.0 | 证据：中/28
+   https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10028331&AN=156117059&h=N1MOdJVtPmAu1bd4zaVyOeFpBhYTPKeI3k0SnKT2vAhIQvqv%2FVJJfBQNzQDEYPtQTa5Ps90vHHi8JmuX2wLifw%3D%3D&crl=c
+6. 从电路计算到人工智能——从计算机视角看 “诺贝尔物理学奖颁给人工智能学者
+   域名：nature.shu.edu.cn | 权重：1 | 相关性：34 | 总分：243.0 | 证据：中/27
+   https://www.nature.shu.edu.cn/CN/PDF/10.3969/j.issn.0253-9608.2024.06.006
